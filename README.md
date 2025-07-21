@@ -71,7 +71,7 @@ Start the Flask server:
  ---
 
  
-║   🛠️  Flask REST API – User Manager     ║
+# ║   🛠️  Flask REST API – User Manager     ║
 
 
 Operations:
