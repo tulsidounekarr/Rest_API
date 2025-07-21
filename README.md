@@ -85,7 +85,7 @@ Operations:
 ---
 
 📸 Preview
-![image alt](https://github.com/tulsidounekarr/NewsHeadlines-Scraper/blob/15086e7a96bbdc08b896232ea1e4e9a23dd219fc/image.jpg)
+![image alt](https://github.com/tulsidounekarr/Rest_API/blob/7ba891e112b73ffd5f0beb9d06124e5e7e2bfcf1/image%20(5).png)
 
 ---
 
